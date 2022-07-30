@@ -1,0 +1,12 @@
+XPath for Attributes
+   //span[@class='ui-slider-handle ui-corner-all ui-state-default']
+   
+ XPath For Text Function
+     //a[text()='Register']
+
+ XPath For Conatains() Function
+      //a[contains(text(),'Regi')]
+     
+Xpath For Multiple Functions
+
+//a[@class='ico-register' and text()='Register']
